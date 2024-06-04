@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1669772496 source:c:\users\kdyso\onedrive\documents\college\compsci notes\program20\classfunctions.cpp
+	"classFunctions.h"
+
+1669771730 c:\users\kdyso\onedrive\documents\college\compsci notes\program20\classfunctions.h
+	<iostream>
+	<string>
+	<ostream>
+	<iomanip>
+
+1669772090 source:c:\users\kdyso\onedrive\documents\college\compsci notes\program20\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<ostream>
+	"classFunctions.h"
+
+1670011543 source:c:\users\kdyso\onedrive\documents\college\compsci programs\program 20\classfunctions.cpp
+	"classFunctions.h"
+
+1670011539 c:\users\kdyso\onedrive\documents\college\compsci programs\program 20\classfunctions.h
+	<iostream>
+	<string>
+	<ostream>
+	<iomanip>
+
+1670011546 source:c:\users\kdyso\onedrive\documents\college\compsci programs\program 20\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"classFunctions.h"
+
