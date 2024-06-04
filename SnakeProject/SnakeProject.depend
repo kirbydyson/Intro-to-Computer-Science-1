@@ -1,0 +1,127 @@
+# depslib dependency file v1.0
+1670280460 source:c:\users\kdyso\onedrive\documents\college\compsci notes\snakeproject\sdl_plotter.cpp
+	"SDL_Plotter.h"
+
+1670280458 c:\users\kdyso\onedrive\documents\college\compsci notes\snakeproject\sdl_plotter.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_mixer.h>
+	<string.h>
+	<iostream>
+	<string>
+	<string.h>
+	<map>
+	<queue>
+
+1670346603 source:c:\users\kdyso\onedrive\documents\college\compsci notes\snakeproject\main.cpp
+	<iostream>
+	<string>
+	"SDL_Plotter.h"
+	"print.h"
+	"SDL_Plotter.h"
+	"snake.h"
+	"print.h"
+
+1670281172 source:c:\users\kdyso\onedrive\documents\college\compsci notes\snakeproject\snake.cpp
+	"snake.h"
+
+1670281190 c:\users\kdyso\onedrive\documents\college\compsci notes\snakeproject\snake.h
+	"SDL_Plotter.h"
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<string>
+	<sstream>
+
+1669870374 source:c:\users\kdyso\onedrive\documents\college\compsci notes\snakeproject\testletters.cpp
+	<iostream>
+	<fstream>
+	"SDL_Plotter.h"
+
+1670281209 source:c:\users\kdyso\onedrive\documents\college\compsci notes\snakeproject\print.cpp
+	"print.h"
+	"print.h"
+
+1670281132 c:\users\kdyso\onedrive\documents\college\compsci notes\snakeproject\print.h
+	<fstream>
+	"SDL_Plotter.h"
+	"snake.h"
+	<fstream>
+	"SDL_Plotter.h"
+	"snake.h"
+
+1670388443 source:c:\users\kdyso\onedrive\documents\college\compsci programs\snakeproject\print.cpp
+	"Print.h"
+
+1670388438 c:\users\kdyso\onedrive\documents\college\compsci programs\snakeproject\print.h
+	<fstream>
+	"SDL_Plotter.h"
+	"snake.h"
+
+1670388444 c:\users\kdyso\onedrive\documents\college\compsci programs\snakeproject\sdl_plotter.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_mixer.h>
+	<string.h>
+	<iostream>
+	<string>
+	<string.h>
+	<map>
+	<queue>
+
+1670389014 c:\users\kdyso\onedrive\documents\college\compsci programs\snakeproject\snake.h
+	"SDL_Plotter.h"
+	"print.h"
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<string>
+	<sstream>
+
+1670392700 source:c:\users\kdyso\onedrive\documents\college\compsci programs\snakeproject\snake.cpp
+	"snake.h"
+
+1670388446 source:c:\users\kdyso\onedrive\documents\college\compsci programs\snakeproject\sdl_plotter.cpp
+	"SDL_Plotter.h"
+
+1670392188 source:c:\users\kdyso\onedrive\documents\college\compsci programs\snakeproject\main.cpp
+	"SDL_Plotter.h"
+	"snake.h"
+	"Print.h"
+
+1670392188 source:c:\users\kdyso\onedrive\documents\college\semester 1\compsci programs\snakeproject\main.cpp
+	"SDL_Plotter.h"
+	"snake.h"
+	"Print.h"
+
+1670388444 c:\users\kdyso\onedrive\documents\college\semester 1\compsci programs\snakeproject\sdl_plotter.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_mixer.h>
+	<string.h>
+	<iostream>
+	<string>
+	<string.h>
+	<map>
+	<queue>
+
+1670389014 c:\users\kdyso\onedrive\documents\college\semester 1\compsci programs\snakeproject\snake.h
+	"SDL_Plotter.h"
+	"print.h"
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<string>
+	<sstream>
+
+1670388438 c:\users\kdyso\onedrive\documents\college\semester 1\compsci programs\snakeproject\print.h
+	<fstream>
+	"SDL_Plotter.h"
+	"snake.h"
+
+1670388443 source:c:\users\kdyso\onedrive\documents\college\semester 1\compsci programs\snakeproject\print.cpp
+	"Print.h"
+
+1670388446 source:c:\users\kdyso\onedrive\documents\college\semester 1\compsci programs\snakeproject\sdl_plotter.cpp
+	"SDL_Plotter.h"
+
+1670392700 source:c:\users\kdyso\onedrive\documents\college\semester 1\compsci programs\snakeproject\snake.cpp
+	"snake.h"
+
